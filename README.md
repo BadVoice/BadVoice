@@ -8,11 +8,11 @@
 
 - 👨‍💻 I'am currently working with  **Vue projects**
 
-- 📝 I’m currently learning Stack **Vue, Js, Ts, Vite,Sass(Css), Html**
+- 📝 I’m currently learning Stack **Vue, Js, Ts, Vite, Sass(Css), Html**
 
 - 📝 I regularly write articles on [https://smartprogress.do/goal/406821/](https://smartprogress.do/goal/406821/)
 
-- ⚡ Twitch **https://www.twitch.tv/badvo1ce/about**
+- ⚡ [Twith](https://www.twitch.tv/badvo1ce/about)
 
 <h3 align="center">Connect with me:</h3>
 <p align="left">
