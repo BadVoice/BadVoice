@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm German</h1>
 <h3 align="center">20 y.o frontend developer</h3>
-<img align='right' width='400' height='250' alt='coding' src='https://c.tenor.com/HYb5ETTGZDAAAAAC/tony-stark-coding-tony-stark.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badvoice&label=Profile%20views&color=0e75b6&style=flat" alt="badvoice" /> </p>
 
