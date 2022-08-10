@@ -11,7 +11,6 @@
 
 - 📝 I regularly write articles on [https://smartprogress.do/goal/406821/](https://smartprogress.do/goal/406821/)
 
-- ⚡ [Twith](https://www.twitch.tv/badvo1ce/about)
 
 <h3 align="center">Connect with me:</h3>
 <p align="left">
