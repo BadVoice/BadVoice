@@ -7,7 +7,7 @@
 
 - 👨‍💻 I'am currently working with  **Vue projects**
 
-- 📝 I’m currently learning Stack **Vue, Js, Vite, Pinia, Tailwind, Bulma, Astro, vuetify, Ts, Sass(Css), Html, vueuse and etc librarys **
+- 📝 I’m currently learning Stack **Vue, Js, Vite, Pinia, Tailwind, Bulma, Astro, vuetify, Ts, Sass(Css), Html, vueuse and etc librarys**
 
 - 📝 I regularly write articles on [https://smartprogress.do/goal/406821/](https://smartprogress.do/goal/406821/)
 
