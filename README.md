@@ -1,15 +1,19 @@
 
 
-<h1 align="center">Hi 👋, I'm German</h1>
-<h3 align="center">20 y.o frontend developer and use MEVN stack </h3>
+<h1 align="center">Hi 👋, I'm Herman</h1>
+<h3 align="center">20 y.o frontend developer and I love working on open source code / I combine my college studies with programming </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badvoice&label=Profile%20views&color=0e75b6&style=flat" alt="badvoice" /> </p>
 
-- 👨‍💻 I'am currently working with  **Vue projects**
+- 👨‍💻 I'am currently working with  **Your open source project to customize a recipe by taste expectations in coffee  and etc open source**
 
-- 📝 I’m currently learning Stack **Vue, Js, Vite, Pinia, Astro, Nuxt, Tailwind, Bulma,  vuetify, Ts, Sass(Css), Html, vueuse and etc librarys**
+- 📝 I’m currently learning Stack **React, Vue, Js, Ts, Recoil, Pinia, Tailwind, Bulma, Vite, Webpack, vuetify & etc, Sass(Css), Html, vueuse and etc librarys**
 
 - 📝 I regularly write articles on [https://smartprogress.do/goal/406821/](https://smartprogress.do/goal/406821/)
+
+- 👨‍💻 more:  **I'm learning any kind of technology, I'm not stack-bound, I dream of finding a development team.
+Would also like to write autotests xd**
+
 
 
 <h3 align="center">Connect with me:</h3>
