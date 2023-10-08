@@ -7,7 +7,7 @@
 
 - 👨‍💻 Previously worked with: <br> **Nest.js, Typescript, Prisma, ORM, Typescript, CRUD, Docker && <br> React.js, Vue.js, Typescript, etc. state management;**
 
-- 📝 I’m currently learning: **C/C++, algorithms and data structures;**
+- 📝 I’m currently learning: **Python, algorithms and data structures;**
 
 - 📝 I regularly write articles on [https://smartprogress.do/goal/406821/](https://smartprogress.do/goal/406821/);
 
