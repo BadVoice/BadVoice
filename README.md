@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badvoice&label=Profile%20views&color=0e75b6&style=flat" alt="badvoice" /> </p>
 
-- 👨‍💻 Previously worked with: <br> **Nest.js, Typescript, Prisma, ORM, Typescript, CRUD, Docker && <br> React.js, Vue.js, Typescript, etc. state management;**
+- 👨‍💻 Previously worked with: <br> **Nest.js, Prisma, ORM, grammY, CRUD, Docker && <br> React.js, Vue.js, Typescript, etc. state management;**
 
-- 📝 I’m currently learning: **Python, algorithms and data structures;**
+- 📝 I’m currently learning: **algorithms and data structures, TS;**
 
 - 📝 I regularly write articles on [https://smartprogress.do/goal/406821/](https://smartprogress.do/goal/406821/);
 
