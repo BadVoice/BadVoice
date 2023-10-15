@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm German</h1>
 <h3 align="center">21 y.o </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=badvoice&label=Profile%20views&color=0e75b6&style=flat" alt="badvoice" /> </p>
-
 - 👨‍💻 Previously worked with: <br> **Nest.js, Prisma, ORM, grammY, CRUD, Docker && <br> React.js, Vue.js, Typescript, etc. state management;**
 
 - 📝 I’m currently learning: **algorithms and data structures, TS;**
