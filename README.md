@@ -7,8 +7,6 @@
 
 - 📝 I’m currently learning: **algorithms and data structures, TS;**
 
-- 📝 I regularly write articles on [https://smartprogress.do/goal/406821/](https://smartprogress.do/goal/406821/);
-
 - 👨‍💻 more:  **Algorithms and data structures, Pascal, (primitive assembler);**
 
 
