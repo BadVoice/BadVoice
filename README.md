@@ -7,7 +7,7 @@
 
 - 📝 I’m currently learning: **algorithms and data structures, TS;**
 
-- 👨‍💻 more:  **Algorithms and data structures, Pascal, (primitive assembler);**
+- 👨‍💻 more:  **Like C for fun**
 
 
 
