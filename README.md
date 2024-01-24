@@ -3,13 +3,7 @@
 <h1 align="center">Hi 👋, I'm German</h1>
 <h3 align="center">21 y.o </h3>
 
-- 👨‍💻 Previously worked with: <br> **Nest.js, Prisma, ORM, grammY, CRUD, Docker && <br> React.js, Vue.js, Typescript, etc. state management;**
-
-- 📝 I’m currently learning: **algorithms and data structures, TS;**
-
-- 👨‍💻 more:  **Like C for fun**
-
-
+- 👨‍💻 Previously worked with: <br> **Nest.js, REST, Graphql, ORM && <br> React.js, Vue.js, Typescript, etc. state management;**
 
 <h3 align="center">Connect with me:</h3>
 <p align="left">
