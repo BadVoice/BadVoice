@@ -4,7 +4,7 @@
 <h3 align="center">21 y.o </h3>
 
 - 👨‍💻 Previously worked with: <br> **Nest.js, REST, Graphql, ORM && <br> React.js, Vue.js, Typescript, etc. state management;**
-- Open Source and YeaHub CIS Community
+- Open Source, YeaHub 👋
 
 <h3 align="center">Connect with me:</h3>
 <p align="left">
