@@ -1,7 +1,6 @@
 
 
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">I'm a full stack developer, but now developing more in the backend. Here you will find information about me as a 21 y.o. guy. </h3>
 
 - 👨‍💻 Using Tech Stack: <br> Js, Ts, Vue.js, Nest.js Redis, Postgres, Docker. <br>
 ![js-java-script](https://github.com/BadVoice/BadVoice/assets/102964752/0f7ca0c2-756a-4f15-9d0e-23be91c7e808) <img src="https://github.com/BadVoice/BadVoice/assets/102964752/1fec730f-e1bc-43a0-8327-5d382bd45658" width="100" height="100" /> <img src="https://github.com/BadVoice/BadVoice/assets/102964752/570ee80b-9005-4fe9-b406-177141846351" width="100" height="100" /> <img src="https://github.com/BadVoice/BadVoice/assets/102964752/09a370ff-bf3a-48e4-9a19-fccd8b8d5298" width="100" height="100" /> <img src="https://github.com/BadVoice/BadVoice/assets/102964752/1a29742c-2767-41f6-a200-99ee8f56e435" width="100" height="100" />
